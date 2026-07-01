@@ -23,8 +23,7 @@ const ContactOption = [
     icon: <RiMessengerLine/>,
     title: 'Messenger',
     info: "Marwan Ayman",
-    link: 'https://m.me/Marwan.Ayman'
-
+    link: 'https://m.me/marawan.gad.5'
   },
 
    {
@@ -32,8 +31,7 @@ const ContactOption = [
     icon: <BsWhatsapp/>,
     title: 'WhatsApp',
     info: "01020416756",
-    link: 'https://wa.me/01020416756'
-
+    link: 'https://wa.me/201020416756'
   }
 
 ]

@@ -1,5 +1,5 @@
 import './about.css'
-import ImageMe from '../../assets/me-about.jpg'
+import ImageMe from '../../assets/marwan.png'
 import {VscFolderLibrary} from "react-icons/vsc"
 import { FaGraduationCap } from "react-icons/fa6";
 import { GoStack } from "react-icons/go";
@@ -24,7 +24,8 @@ function About() {
             <div className="about_card">
               <FaGraduationCap className='about_icon'/>
               <h5>Education</h5>
-              <small>B.Tech Graduate</small>
+              <small>Borg El Arab Technology University </small>
+            
             </div>
 
             <div className="about_card">
@@ -41,10 +42,10 @@ function About() {
 
           </div>
 
-          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.
-             Ad voluptatum, non enim quo quos ipsum sequi voluptate voluptas, 
-             itaque neque aliquid magni dolor eos. Voluptas.</p>
-             <a href="#contact" className='btn btn-primary'>Let's Talk</a>
+          <p>Hi, I'm Marwan ,  a graduate of Borg El Arab Technology University with a degree in Information Technology.
+             I'm a passionate Front-End Developer who enjoys building modern, responsive, and user-friendly web applications.
+              I specialize in HTML, CSS, JavaScript, Bootstrap, and React.js, and I'm always eager to learn new technologies and improve my skills by working on real-world projects.
+              My goal is to create clean, efficient, and engaging user experiences.</p>
         </div>
       </div>
     </section>
