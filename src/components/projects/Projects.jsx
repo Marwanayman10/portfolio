@@ -4,13 +4,7 @@ import proj2 from "../../assets/project2.png";
 import proj3 from "../../assets/project3.png";
 
 const portfolioData = [
-  {
-    id: 1,
-    image: proj1,
-    title: "Meditro",
-    github: "https://github.com/Marwanayman10/Meditro.git",
-    demo: "https://meditro-mu.vercel.app",
-  },
+
 
   {
     id: 2,
@@ -26,6 +20,14 @@ const portfolioData = [
     title: "Foodera Restaurant",
     github: "https://github.com/Marwanayman10/Ecommerce.git",
     demo: "https://ecommerce-three-omega-74.vercel.app",
+  },
+
+    {
+    id: 1,
+    image: proj1,
+    title: "Meditro",
+    github: "https://github.com/Marwanayman10/Meditro.git",
+    demo: "https://meditro-mu.vercel.app",
   },
 ];
 
